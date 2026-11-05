@@ -148,16 +148,6 @@ En esta prueba se simuló una frecuencia cardíaca de 140 bpm y una saturación 
 El límite superior de SpO2 se había configurado en 97 %, por lo que el valor de 98 % superaba el límite establecido y se esperaba la activación de una alarma por saturación elevada.
 
 También se debía evaluar la alarma de frecuencia cardíaca elevada, cuya activación dependía del límite superior de FC configurado.
-
-## 7. Análisis de la señal fotopletismográfica
-La señal fotopletismográfica permite observar las variaciones del volumen sanguíneo periférico durante cada pulsación cardíaca.
-
-Durante las pruebas se pueden relacionar sus características con las condiciones simuladas:
-- **Bradicardia:** los pulsos aparecen más separados debido a la menor frecuencia cardíaca.
-- **Saturación baja:** permite observar la señal mientras el simulador representa una condición de menor oxigenación.
-- **Low Perfusion:** se espera una reducción de la amplitud de la onda debido a la menor intensidad del componente pulsátil.
-- **Taquicardia:** los pulsos aparecen más próximos entre sí debido al incremento de la frecuencia cardíaca.
-
 # Parte C — 
 
 ## Preguntas para la discusión
