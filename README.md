@@ -18,7 +18,7 @@ Instrumentación Biomédica y Biosensores, Ingeniería Biomédica, UMNG (Semestr
 ## Conclusión general
 
 # Parte A — 
-# PARTE B. VERIFICACIÓN DE ALARMAS Y ERRORES DE MEDICIÓN
+# Parte B -VERIFICACIÓN DE ALARMAS Y ERRORES DE MEDICIÓN
 ## 1. Resultados experimentales
 
 ### 1.1. Tabla general de mediciones
