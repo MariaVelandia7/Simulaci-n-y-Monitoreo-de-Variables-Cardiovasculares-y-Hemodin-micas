@@ -8,9 +8,15 @@ Instrumentación Biomédica y Biosensores, Ingeniería Biomédica, UMNG (Semestr
 - Ana Sofia Conde Porras - 5600770
 
 ## Objetivo general
+Operar con el simulador Pronk OxSim (OX-1) y el monitor de signos vitales uMEC 100 para pruebas funcionales.
 
 ## Objetivos específicos
-
+• Identificar los modos de operación de un simulador de parámetros
+hemodinámicos (Pronk OxSim).
+• Verificar los límites de medición de un monitor de signos vitales mediante
+simulación de variables hemodinámicas.
+• Interpretar variaciones en los parámetros hemodinámicos asociadas a
+estados fisiológicos y patológicos.
 ## Resumen de la práctica 
 
 ## Estructura del repositorio
@@ -349,7 +355,7 @@ En esta prueba se simuló una frecuencia cardíaca de 140 bpm y una saturación 
 El límite superior de SpO2 se había configurado en 97 %, por lo que el valor de 98 % superaba el límite establecido y se esperaba la activación de una alarma por saturación elevada.
 
 También se debía evaluar la alarma de frecuencia cardíaca elevada, cuya activación dependía del límite superior de FC configurado.
-# Parte C — 
+# Parte C — Discusión
 
 ## Preguntas para la discusión
 ### Pregunta 1: ¿Cuál es el principio de operación del Pronk OxSim OX-1 para simular una onda pulsátil?
