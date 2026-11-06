@@ -11,12 +11,11 @@ Instrumentación Biomédica y Biosensores, Ingeniería Biomédica, UMNG (Semestr
 Operar con el simulador Pronk OxSim (OX-1) y el monitor de signos vitales uMEC 100 para pruebas funcionales.
 
 ## Objetivos específicos
-• Identificar los modos de operación de un simulador de parámetros
-hemodinámicos (Pronk OxSim).
-• Verificar los límites de medición de un monitor de signos vitales mediante
-simulación de variables hemodinámicas.
-• Interpretar variaciones en los parámetros hemodinámicos asociadas a
-estados fisiológicos y patológicos.
+• Identificar los modos de operación de un simulador de parámetros hemodinámicos (Pronk OxSim).
+
+• Verificar los límites de medición de un monitor de signos vitales mediante simulación de variables hemodinámicas.
+
+• Interpretar variaciones en los parámetros hemodinámicos asociadas a estados fisiológicos y patológicos.
 
 ## Resumen de la práctica 
 En esta práctica se verificó el funcionamiento del monitor de signos vitales usando el simulador óptico de pulsioximetría como referencia. Primero se hizo una revisión bibliográfica de ambos equipos, de sus principios de operación, de los parámetros que se pueden simular y de los errores máximos permitidos según la normativa y la ficha técnica del fabricante. Luego se dejó el monitor en modo de monitorización, se acopló el sensor al dedo artificial del simulador y se evaluaron cuatro condiciones: bradicardia, saturación baja, baja perfusión y taquicardia. En cada una se compararon los valores simulados con los medidos, se calcularon los errores absoluto y porcentual, se verificó si las alarmas debían activarse según los límites configurados y se registró el tiempo de respuesta de la alarma sonora. Finalmente, se discutió el principio de operación del simulador y por qué una mala perfusión puede generar falsas alarmas de SpO2 baja.
