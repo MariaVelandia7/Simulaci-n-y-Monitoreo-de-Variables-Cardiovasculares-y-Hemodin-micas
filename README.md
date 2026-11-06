@@ -17,11 +17,17 @@ hemodinámicos (Pronk OxSim).
 simulación de variables hemodinámicas.
 • Interpretar variaciones en los parámetros hemodinámicos asociadas a
 estados fisiológicos y patológicos.
+
 ## Resumen de la práctica 
+En esta práctica se verificó el funcionamiento del monitor de signos vitales usando el simulador óptico de pulsioximetría como referencia. Primero se hizo una revisión bibliográfica de ambos equipos, de sus principios de operación, de los parámetros que se pueden simular y de los errores máximos permitidos según la normativa y la ficha técnica del fabricante. Luego se dejó el monitor en modo de monitorización, se acopló el sensor al dedo artificial del simulador y se evaluaron cuatro condiciones: bradicardia, saturación baja, baja perfusión y taquicardia. En cada una se compararon los valores simulados con los medidos, se calcularon los errores absoluto y porcentual, se verificó si las alarmas debían activarse según los límites configurados y se registró el tiempo de respuesta de la alarma sonora. Finalmente, se discutió el principio de operación del simulador y por qué una mala perfusión puede generar falsas alarmas de SpO2 baja.
 
 ## Estructura del repositorio
+Parte A – Revisión bibliográfica: descripción de los equipos, procedimiento para el modo monitor, parámetros simulables y errores máximos permitidos.
+Parte B – Verificación de alarmas y errores de medición: resultados experimentales, cálculo de errores, verificación de alarmas, tiempos de respuesta y análisis.
+Parte C – Preguntas para la discusión: principio de operación del OxSim OX-1 y falsos positivos de SpO2 en mala perfusión.
 
 ## Conclusión general
+La práctica permitió comprobar que el monitor reproduce de forma confiable los valores de SpO2 y frecuencia de pulso generados por el simulador, con errores nulos o muy pequeños y dentro de las tolerancias declaradas por el fabricante. También permitió ver cómo las condiciones de la señal, en particular la baja perfusión, y la configuración de los límites influyen en la medición y en el comportamiento de las alarmas. Más allá de los valores obtenidos, el trabajo mostró que un simulador sirve como verificación funcional de toda la cadena de medición (sensor, cable y monitor), pero no reemplaza una calibración ni un estudio in vivo.
 
 # Parte A — Revisión bibliográfica
 ### Introducción a la revisión
