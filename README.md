@@ -22,7 +22,9 @@ En esta práctica se verificó el funcionamiento del monitor de signos vitales u
 
 ## Estructura del repositorio
 Parte A – Revisión bibliográfica: descripción de los equipos, procedimiento para el modo monitor, parámetros simulables y errores máximos permitidos.
+
 Parte B – Verificación de alarmas y errores de medición: resultados experimentales, cálculo de errores, verificación de alarmas, tiempos de respuesta y análisis.
+
 Parte C – Preguntas para la discusión: principio de operación del OxSim OX-1 y falsos positivos de SpO2 en mala perfusión.
 
 ## Conclusión general
